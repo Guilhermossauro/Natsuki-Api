@@ -1,0 +1,6 @@
+node_modules
+.env
+teste.js
+package-lock.json
+copiador.js
+db.json

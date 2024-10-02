@@ -1,0 +1,1 @@
+{"name":"restapi","version":"1.10.0","type":"module","dependencies":{"@victorsouzaleal/lbot-api-comandos":"^1.0.15","axios":"^1.7.7","canvas":"^2.11.2","express":"^4.21.0","ffmpeg":"^0.0.4","pinterest-dl":"^1.0.1","wa-sticker-hamma":"^2.3.6"}}
